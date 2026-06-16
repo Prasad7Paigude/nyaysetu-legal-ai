@@ -1,0 +1,85 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "nyaysetu"
+version = "2.0.0"
+description = "AI-powered legal document generation, IPC prediction, blockchain storage, and legal chatbot"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+keywords = ["legal-tech", "document-generation", "ipc-prediction", "blockchain", "rag"]
+dependencies = [
+    "annotated-types==0.7.0",
+    "anyio==4.8.0",
+    "blinker==1.9.0",
+    "certifi==2024.12.14",
+    "charset-normalizer==3.4.1",
+    "chromadb~=0.5.0",
+    "click==8.1.8",
+    "colorama==0.4.6",
+    "dataclasses-json==0.6.7",
+    "distro==1.9.0",
+    "dnspython==2.7.0",
+    "fastapi==0.115.6",
+    "Flask==3.1.0",
+    "flask-cors==5.0.1",
+    "groq==0.18.0",
+    "h11==0.14.0",
+    "httpcore==1.0.7",
+    "httpx==0.28.1",
+    "idna==3.10",
+    "itsdangerous==2.2.0",
+    "Jinja2==3.1.5",
+    "jsonpatch==1.33",
+    "jsonschema==4.23.0",
+    "langchain-community~=0.3.0",
+    "langchain-core~=0.3.0",
+    "langchain-openai~=0.3.0",
+    "MarkupSafe==3.0.2",
+    "openai~=1.60.0",
+    "pydantic==2.10.4",
+    "pydantic-settings==2.7.1",
+    "pymongo==4.11",
+    "python-dotenv==1.0.1",
+    "python-multipart==0.0.20",
+    "PyYAML==6.0.2",
+    "reportlab~=4.3",
+    "requests==2.32.3",
+    "sniffio==1.3.1",
+    "starlette==0.41.3",
+    "tqdm==4.67.1",
+    "typing_extensions==4.12.2",
+    "urllib3==2.3.0",
+    "uvicorn==0.34.0",
+    "Werkzeug==3.1.3",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "mypy>=1.0",
+    "ruff>=0.1.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["", "supplementary-code"]
+include = [
+    "config*",
+    "utils*",
+    "chatbot*",
+    "blockchain*",
+    "draft_generation*",
+    "ipc_prediction*",
+]
+
+[tool.setuptools.package-dir]
+"" = "."
+"chatbot" = "supplementary-code/chatbot"
+"blockchain" = "supplementary-code/blockchain"
+"draft_generation" = "supplementary-code/draft_generation"
+"ipc_prediction" = "supplementary-code/ipc_prediction"
+
+[tool.setuptools]
+zip-safe = false

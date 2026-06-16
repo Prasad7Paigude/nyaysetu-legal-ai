@@ -1,0 +1,182 @@
+[
+  {
+    "law_type": "Glossary",
+    "identifier": "FIR",
+    "title_or_term": "FIR",
+    "bare_text": "Information relating to the commission of a cognizable offence, given orally or in writing to an officer in charge of a police station, reduced to writing, signed by the person giving it, and recorded in a register as prescribed. The term is not formally defined in the IPC or CrPC but refers to the information recorded under Section 154 of the CrPC.",
+    "plain_english_explanation": "FIR stands for First Information Report. It is the first written record of a serious crime that is given to the police. A person who witnessed or experienced the crime tells the police what happened. The police write it down, read it back to the person, and ask them to sign it. This report starts the official investigation process.",
+    "keywords": [
+      "fir"
+    ],
+    "source": "CrPC Section 154 | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Cognizable Offence",
+    "title_or_term": "Cognizable Offence",
+    "bare_text": "An offence for which a police officer may, in accordance with the First Schedule of the CrPC or under any other law for the time being in force, arrest without warrant. [Section 2(c), CrPC]",
+    "plain_english_explanation": "A cognizable offence is a serious crime. The police can arrest someone without permission from a judge if they believe that person committed this type of crime. Examples include murder, rape, theft, and kidnapping. The police can also start investigating these crimes on their own without asking the judge first.",
+    "keywords": [
+      "cognizable offence"
+    ],
+    "source": "CrPC Section 2 (Definitions) | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Non-Cognizable Offence",
+    "title_or_term": "Non-Cognizable Offence",
+    "bare_text": "An offence for which a police officer has no authority to arrest without warrant. [Section 2(l), CrPC]",
+    "plain_english_explanation": "A non-cognizable offence is a less serious crime. The police cannot arrest someone without a judge's permission for this type of crime. The police also cannot investigate without the judge ordering them to. Examples include minor disputes and small offences. The person must complain to the magistrate first.",
+    "keywords": [
+      "non-cognizable offence"
+    ],
+    "source": "CrPC Section 2 (Definitions) | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Bailable Offence",
+    "title_or_term": "Bailable Offence",
+    "bare_text": "An offence which is shown as bailable in the First Schedule of the CrPC, or which is made bailable by any other law for the time being in force. [Section 2(a), CrPC]",
+    "plain_english_explanation": "A bailable offence is a crime for which an arrested person can be released from police custody by giving bail. Bail is money given as security to the court. The person promises to come back to court when needed. Once bail is approved, the person is released until the trial.",
+    "keywords": [
+      "bailable offence"
+    ],
+    "source": "CrPC Section 2 (Definitions) | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Non-Bailable Offence",
+    "title_or_term": "Non-Bailable Offence",
+    "bare_text": "Any offence other than one shown as bailable in the First Schedule of the CrPC. [Section 2(a), CrPC]",
+    "plain_english_explanation": "A non-bailable offence is a serious crime like murder or rape. An arrested person cannot get bail automatically. The judge must decide if bail should be given. The judge looks at how serious the crime is and whether the person is likely to run away or harm others before deciding.",
+    "keywords": [
+      "non-bailable offence"
+    ],
+    "source": "CrPC Section 2 (Definitions) | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Arrest",
+    "title_or_term": "Arrest",
+    "bare_text": "The taking of a person into custody by a police officer or authorized person under the authority of law, to deprive that person of their liberty on the ground of having committed or being suspected of committing an offence. The arrested person must be informed of the grounds of arrest and their right to bail.",
+    "plain_english_explanation": "Arrest means the police physically take someone into custody and prevent them from leaving. This happens when the police believe the person committed a crime. The police must tell the person why they are being arrested. The arrested person must be taken to the police station or court.",
+    "keywords": [
+      "arrest"
+    ],
+    "source": "CrPC Chapter V (Arrest of Persons) | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Bail",
+    "title_or_term": "Bail",
+    "bare_text": "A security for the appearance of a person in court, which may be taken in the form of money, property, or personal recognizance. When a person is released on bail, they are freed from custody on the condition that they appear before the court as required. [CrPC Sections 436-439]",
+    "plain_english_explanation": "Bail is a way to release someone from police custody without going to jail. The person gives money or promises to appear in court. If they go to court when required, the money is returned. Bail allows the person to stay free while waiting for trial. Some crimes have automatic bail, while others need the judge to decide.",
+    "keywords": [
+      "bail"
+    ],
+    "source": "CrPC Chapter XXXIII (Provisions as to Bail and Bonds) | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Charge Sheet",
+    "title_or_term": "Charge Sheet",
+    "bare_text": "A report submitted by the police to the Magistrate on completion of investigation in a cognizable case, containing the findings of investigation, names of the accused, details of the offence, names of witnesses, and other particulars. [CrPC Section 173]",
+    "plain_english_explanation": "A charge sheet is an official report written by the police after they finish investigating a crime. It contains all the information they found, including the name of the person they believe committed the crime, what happened, and the names of people who saw what happened. The charge sheet is sent to the judge to decide if the case should go to trial.",
+    "keywords": [
+      "charge sheet"
+    ],
+    "source": "CrPC Section 173 (Report of police officer on completion of investigation) | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Summons",
+    "title_or_term": "Summons",
+    "bare_text": "A written order issued by a court or police officer requiring a person to appear before the court on a specified date and time. It compels attendance without arrest. [CrPC Sections 61-69]",
+    "plain_english_explanation": "A summons is an official written notice telling someone to come to court on a particular day. It is not as serious as an arrest. The person is trusted to come on their own. If they do not come when summoned, then the court can issue a warrant to arrest them.",
+    "keywords": [
+      "summons"
+    ],
+    "source": "CrPC Chapter VI (Processes to Compel Appearance) | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Warrant",
+    "title_or_term": "Warrant",
+    "bare_text": "An official written order issued by a court authorizing the police to arrest a person or search a place. A warrant of arrest requires the police to bring the accused before the court. [CrPC Sections 70-80]",
+    "plain_english_explanation": "A warrant is an official order from the judge telling the police to arrest someone or search a place. The police must follow the judge's order. An arrest warrant means the police can arrest the person and bring them to court. A search warrant allows the police to search a person's home or office.",
+    "keywords": [
+      "warrant"
+    ],
+    "source": "CrPC Chapter VI (Processes to Compel Appearance) | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Anticipatory Bail",
+    "title_or_term": "Anticipatory Bail",
+    "bare_text": "A direction issued by the High Court or Court of Session that, in the event of a person's arrest on an accusation of having committed a non-bailable offence, that person shall be released on bail. [CrPC Section 438]",
+    "plain_english_explanation": "Anticipatory bail is permission to get bail before being arrested. A person who believes they might be arrested can ask the High Court or Sessions Court for this. If the court agrees, the person will be released on bail if they are arrested. This protects people from spending time in jail before they can prove their innocence.",
+    "keywords": [
+      "anticipatory bail"
+    ],
+    "source": "CrPC Section 438 (Direction for grant of bail to person apprehending arrest) | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Police Custody",
+    "title_or_term": "Police Custody",
+    "bare_text": "The physical custody of an arrested person held by the police at the police station lock-up for the purposes of investigation. The maximum period of police custody is 24 hours, extendable up to 15 days on magistrate's order. [CrPC Section 57 and Section 167]",
+    "plain_english_explanation": "Police custody means the arrested person is kept at the police station in a lock-up. The police can question the person and collect evidence. The police can keep a person in custody for a maximum of 24 hours. After that, the person must go before a judge. If the judge agrees, the police can keep the person for more time, but not more than 15 days total.",
+    "keywords": [
+      "police custody"
+    ],
+    "source": "CrPC Section 57 (Person arrested not to be detained more than twenty-four hours) | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Judicial Custody",
+    "title_or_term": "Judicial Custody",
+    "bare_text": "The custody of an accused person held in jail under the supervision of the magistrate or court, as opposed to police custody. The person is kept in jail on the magistrate's order pending trial. The maximum period is 90 days for serious offences and 60 days for other offences. [CrPC Section 167]",
+    "plain_english_explanation": "Judicial custody means the arrested person is kept in jail under the judge's orders, not the police. The judge decides how long the person stays in jail. The person is kept there while waiting for trial. If the crime is very serious, they can be kept for up to 90 days. For less serious crimes, the maximum is 60 days. The person can get bail at any time.",
+    "keywords": [
+      "judicial custody"
+    ],
+    "source": "CrPC Section 167 (Procedure when investigation cannot be completed in twenty-four hours) | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Magistrate",
+    "title_or_term": "Magistrate",
+    "bare_text": "A judicial officer appointed by the High Court with powers to conduct inquiries and trials in criminal matters according to the CrPC. Types include Judicial Magistrates (first and second class) and Metropolitan Magistrates. [CrPC Sections 6, 11, 16]",
+    "plain_english_explanation": "A magistrate is a junior judge. They handle less serious crimes and some parts of serious cases. Magistrates can hear evidence, decide cases, and order bail. There are different types of magistrates in different areas. In cities, there are Metropolitan Magistrates. In villages and towns, there are Judicial Magistrates.",
+    "keywords": [
+      "magistrate"
+    ],
+    "source": "CrPC Chapter II (Constitution of Criminal Courts and Offices) | India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Glossary",
+    "identifier": "Sessions Court",
+    "title_or_term": "Sessions Court",
+    "bare_text": "The highest criminal court in a district, presided over by a Sessions Judge appointed by the High Court. It has jurisdiction to try the most serious offences, including those punishable with death, life imprisonment, or imprisonment exceeding seven years. [CrPC Sections 6, 9, 28]",
+    "plain_english_explanation": "A Sessions Court is the senior criminal court in a district. It handles the most serious crimes like murder and rape. A Sessions Judge presides over the court. This court can give long sentences including life imprisonment. The Sessions Court is more important than the Magistrate's Court.",
+    "keywords": [
+      "sessions court"
+    ],
+    "source": "CrPC Chapter II (Constitution of Criminal Courts and Offices) | India Code",
+    "verification_status": "verified"
+  }
+]

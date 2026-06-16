@@ -1,0 +1,58 @@
+[
+  {
+    "law_type": "Amendment",
+    "identifier": "Criminal Law (Amendment) Act, 2013 (IPC)",
+    "title_or_term": "Criminal Law (Amendment) Act",
+    "bare_text": "Expanded definitions of sexual offences, introduced new sexual harassment–related offences, and significantly enhanced punishments including life imprisonment and death penalty in extreme cases.",
+    "plain_english_explanation": "Expanded definitions of sexual offences, introduced new sexual harassment–related offences, and significantly enhanced punishments including life imprisonment and death penalty in extreme cases.",
+    "keywords": [
+      "IPC",
+      "2013",
+      "amendment"
+    ],
+    "source": "India Code | PIB",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Amendment",
+    "identifier": "Criminal Law (Amendment) Act, 2018 (IPC)",
+    "title_or_term": "Criminal Law (Amendment) Act",
+    "bare_text": "Introduced stricter punishments for rape of minors, including higher minimum sentences and provision for death penalty in extreme cases.",
+    "plain_english_explanation": "Introduced stricter punishments for rape of minors, including higher minimum sentences and provision for death penalty in extreme cases.",
+    "keywords": [
+      "IPC",
+      "2018",
+      "amendment"
+    ],
+    "source": "India Code | PIB",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Amendment",
+    "identifier": "Code of Criminal Procedure (Amendment) Act, 2005 (CrPC)",
+    "title_or_term": "Code of Criminal Procedure (Amendment) Act",
+    "bare_text": "Introduced safeguards against unnecessary arrest and provided automatic bail for undertrial prisoners detained beyond half of the maximum sentence period.",
+    "plain_english_explanation": "Introduced safeguards against unnecessary arrest and provided automatic bail for undertrial prisoners detained beyond half of the maximum sentence period.",
+    "keywords": [
+      "CrPC",
+      "2005",
+      "amendment"
+    ],
+    "source": "India Code | PIB",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "Amendment",
+    "identifier": "Criminal Law (Amendment) Act, 2018 (CrPC)",
+    "title_or_term": "Criminal Law (Amendment) Act",
+    "bare_text": "Shortened investigation timelines in rape cases and restricted anticipatory bail in cases involving minor victims.",
+    "plain_english_explanation": "Shortened investigation timelines in rape cases and restricted anticipatory bail in cases involving minor victims.",
+    "keywords": [
+      "CrPC",
+      "2018",
+      "amendment"
+    ],
+    "source": "India Code | PIB",
+    "verification_status": "verified"
+  }
+]

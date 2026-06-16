@@ -1,0 +1,1 @@
+"""Centralised configuration package — API keys, paths, model names, and runtime settings."""

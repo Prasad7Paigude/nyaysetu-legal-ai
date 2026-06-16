@@ -1,0 +1,231 @@
+[
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 41",
+    "title_or_term": "When police may arrest without warrant",
+    "bare_text": "Any police officer may without an order from a Magistrate and without a warrant, arrest any person (a) who commits, in the presence of a police officer, a cognizable offence (b) against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence punishable with imprisonment for a term which may be less than seven years or which may extend to seven years whether with or without fine, if the following conditions are satisfied, namely (i) the police officer has reason to believe on the basis of such complaint, information, or suspicion that such person has committed the said offence (ii) the police officer is satisfied that such arrest is necessary (a) to prevent such person from committing any further offence or (b) for proper investigation of the offence or (c) to prevent such person from causing the evidence of the offence to disappear or tampering with such evidence in any manner or (d) to prevent such person from making any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court or to the police officer or (e) unless such person is arrested, his presence in the Court whenever required cannot be ensured, and the police officer shall record while making such arrest, his reasons in writing.",
+    "plain_english_explanation": "A police officer can arrest someone without asking a judge for permission if they see the person commit a serious crime, or have information that the person committed one. The police officer must believe the arrest is needed to stop the person from committing more crimes, to investigate properly, to protect evidence, to prevent interference with witnesses, or to make sure the person appears in court. The police must write down their reasons for arrest.",
+    "keywords": [
+      "arrest without warrant",
+      "cognizable offence",
+      "police authority",
+      "conditions of arrest",
+      "no permission needed"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 41A",
+    "title_or_term": "Notice of appearance before police officer",
+    "bare_text": "The police officer shall, in all cases where the arrest of a person is not required under the provisions of sub-section (1) of section 41, issue a notice directing the person against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence, to appear before him or at such other place as may be specified in the notice. Where such a notice is issued to any person, it shall be the duty of that person to comply with the terms of the notice. Where such person complies and continues to comply with the notice, he shall not be arrested in respect of the offence referred to in the notice unless, for reasons to be recorded, the police officer is of the opinion that he ought to be arrested. Where such person, at any time, fails to comply with the terms of the notice or is unwilling to identify himself, the police officer may, subject to such orders as may have been passed by a competent Court in this behalf, arrest him for the offence mentioned in the notice.",
+    "plain_english_explanation": "Instead of arresting someone immediately, a police officer can give a written notice telling them to come to the police station. The person must follow the notice. If they follow it properly, they will not be arrested unless the police officer has special reasons to arrest them. If the person fails to come or refuses to say who they are, the police can arrest them.",
+    "keywords": [
+      "notice to appear",
+      "police summons",
+      "alternative to arrest",
+      "appearing before police",
+      "compliance with notice"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 50",
+    "title_or_term": "Person arrested to be informed of grounds of arrest and of right to bail",
+    "bare_text": "Every police officer or other person arresting any person without warrant shall forthwith communicate to him full particulars of the offence for which he is arrested or other grounds for such arrest. Where a police officer arrests without warrant any person other than a person accused of a non-bailable offence, he shall inform the person arrested that he is entitled to be released on bail and that he may arrange for sureties on his behalf.",
+    "plain_english_explanation": "When the police arrest someone, they must immediately tell the arrested person why they are being arrested and what crime they are accused of. For crimes that are not very serious, the police must also tell the person that they can get released on bail by giving money or arranging someone to guarantee their appearance in court.",
+    "keywords": [
+      "grounds of arrest",
+      "right to bail",
+      "information to accused",
+      "arrested person rights",
+      "bail information"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 57",
+    "title_or_term": "Person arrested not to be detained more than twenty-four hours",
+    "bare_text": "No police officer shall detain in custody a person arrested without warrant for a longer period than under all the circumstances of the case is reasonable, and such period shall not, in the absence of a special order of a Magistrate under section 167, exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court.",
+    "plain_english_explanation": "The police cannot keep an arrested person in custody for more than 24 hours without a judge's permission. The 24 hours does not include travel time to the court. If the police want to keep the person in custody longer, they must get written permission from a judge.",
+    "keywords": [
+      "detention limit",
+      "24 hours",
+      "police custody duration",
+      "arrested person protection",
+      "Magistrate permission"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 154",
+    "title_or_term": "Information in cognizable cases",
+    "bare_text": "Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction, and be read over to the informant and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer in such form as the State Government may prescribe in this behalf.",
+    "plain_english_explanation": "When someone reports a serious crime to the police station, the police must write down what the person says. They must read it back to the person reporting the crime. The person must sign the written report. The police station keeps a record book of all such reports about serious crimes.",
+    "keywords": [
+      "FIR",
+      "First Information Report",
+      "police report",
+      "cognizable offence",
+      "crime information",
+      "filing complaint"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 155",
+    "title_or_term": "Information as to non-cognizable cases and investigation of such cases",
+    "bare_text": "When information is given to an officer in charge of a police station of the commission within the limits of such station of a non-cognizable offence, he shall enter or cause to be entered the substance of the information in a book to be kept by such officer in such form as the State Government may prescribe in this behalf, and refer the informant to the Magistrate. No police officer shall investigate a non-cognizable case without the order of a Magistrate having power to try such case or commit the case for trial.",
+    "plain_english_explanation": "When someone reports a less serious crime to the police, the police write it down but do not investigate on their own. They tell the person reporting the crime to go to the judge. The police can only investigate this type of crime if the judge gives them permission to do so.",
+    "keywords": [
+      "non-cognizable offence",
+      "police limits",
+      "Magistrate permission",
+      "complaint recording",
+      "investigation authority"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 156",
+    "title_or_term": "Police officer's power to investigate cognizable case",
+    "bare_text": "Any officer in charge of a police station may, without the order of a Magistrate, investigate any cognizable case which a Court having jurisdiction over the local area within the limits of such station would have power to inquire into or try under the provisions of Chapter XIII. No proceeding of a police officer in any such case shall at any stage be called in question on the ground that the case was one which such officer was not empowered under this section to investigate.",
+    "plain_english_explanation": "For serious crimes, the police officer in charge of the police station can start investigating without asking permission from the judge. The police can conduct investigation in their area. The investigation cannot be stopped later just because someone says the police did not have the power to investigate.",
+    "keywords": [
+      "cognizable case",
+      "police investigation",
+      "police authority",
+      "without Magistrate permission",
+      "investigation powers"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 160",
+    "title_or_term": "Police officer's power to require attendance of witnesses",
+    "bare_text": "Any police officer making an investigation under this Chapter may, by order in writing, require the attendance before himself of any person being within the limits of his own or any adjoining station who, from the information given or otherwise, appears to be acquainted with the facts and circumstances of the case and such person shall attend as so required Provided that no male person under the age of fifteen years or above the age of sixty-five years or a woman or a mentally or physically disabled person shall be required to attend at any place other than the place in which such male person or woman resides.",
+    "plain_english_explanation": "During investigation, the police can ask people who know about the crime to come to the police station by giving them a written notice. Those people must follow the notice. However, young boys under 15, old men over 65, women, and people with disabilities do not have to go to the police station—the police must meet them at their homes.",
+    "keywords": [
+      "witness examination",
+      "police summons",
+      "investigation procedure",
+      "witness attendance",
+      "protected persons"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 167",
+    "title_or_term": "Procedure when investigation cannot be completed in twenty-four hours",
+    "bare_text": "Whenever any person is arrested and detained in custody, and it appears that the investigation cannot be completed within the period of twenty-four hours fixed by section 57, and there are grounds for believing that the accusation or information is well-founded, the officer in charge of the police station or the police officer making the investigation, if he is not below the rank of sub-inspector, shall forthwith transmit to the nearest Judicial Magistrate a copy of the entries in the diary hereinafter prescribed relating to the case, and shall at the same time forward the accused to such Magistrate. The Magistrate to whom an accused person is forwarded under this section may, whether he has or has not jurisdiction to try the case, from time to time, authorise the detention of the accused in such custody as such Magistrate thinks fit, for a term not exceeding fifteen days in the whole.",
+    "plain_english_explanation": "If the police need more than 24 hours to investigate, they must take the arrested person before the judge before the 24 hours end. The judge can then allow the person to be kept in custody for further investigation, but only for a maximum of 15 days total. The police must show the judge that the case is serious enough to need more time.",
+    "keywords": [
+      "detention extension",
+      "Magistrate permission",
+      "judicial custody",
+      "investigation period",
+      "24-hour limit exceeding"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 173",
+    "title_or_term": "Report of police officer on completion of investigation",
+    "bare_text": "Every investigation under this Chapter shall be completed without unnecessary delay. As soon as it is completed, the officer in charge of the police station shall forward to a Magistrate empowered to take cognizance of the offence on a police report, a report in the form prescribed by the State Government, containing (i) the name of the police station and the number of the case; (ii) the date on which the information was recorded; (iii) the date on which the investigation was completed; (iv) the name of the accused person or persons, if known, and description of the person or persons if the name is not known; (v) concise statement of the facts constituting the alleged offence; (vi) the names of the witnesses examined during the investigation.",
+    "plain_english_explanation": "After the police finish investigating a crime, they must send a report to the judge quickly. The report must include the name of the accused, what happened, the names of witnesses, and other details. This report is also called a charge sheet. It tells the judge what the police found during investigation.",
+    "keywords": [
+      "investigation report",
+      "charge sheet",
+      "police findings",
+      "case completion",
+      "Magistrate report",
+      "closing report"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 436",
+    "title_or_term": "In what cases bail to be taken",
+    "bare_text": "When any person other than a person accused of a non-bailable offence is arrested or detained without warrant by an officer in charge of a police station, or appears or is brought before a Court, and is prepared at any time while in the custody of such officer or at any stage of the proceeding before such Court to give bail, such person shall be released on bail Provided that such officer or Court, if he or it thinks fit, may, and shall, if such person is indigent and is unable to furnish surety, instead of taking bail from such person, discharge him on his executing a bond without sureties for his appearance as hereinafter provided.",
+    "plain_english_explanation": "For crimes that are not very serious (bailable offences), a person can be released by giving bail—money as a security. The police officer or judge can decide the bail amount. If the person is poor and cannot pay bail, they can be released on a written promise to appear in court without giving any money.",
+    "keywords": [
+      "bail release",
+      "bailable offence",
+      "security deposit",
+      "bail conditions",
+      "release on bond",
+      "poor persons bail"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 437",
+    "title_or_term": "When bail may be taken in case of non-bailable offence",
+    "bare_text": "When any person accused of, or suspected of, the commission of any non-bailable offence is arrested or detained without warrant by an officer in charge of a police station or appears or is brought before a Court other than the High Court or Court of session, he may be released on bail, but (i) such person shall not be so released if there appear reasonable grounds for believing that he has been guilty of an offence punishable with death or imprisonment for life (ii) such person shall not be so released if such offence is a cognizable offence and he had been previously convicted of an offence punishable with death, imprisonment for life or imprisonment for seven years or more.",
+    "plain_english_explanation": "Even for serious crimes, a person can sometimes be released on bail. But the judge cannot give bail if it is a crime punishable by death or life imprisonment, or if the person has committed similar serious crimes before. The judge can give bail only if they believe the person will come to court.",
+    "keywords": [
+      "non-bailable offence",
+      "bail discretion",
+      "serious crimes",
+      "bail conditions",
+      "previous conviction",
+      "judge discretion"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 438",
+    "title_or_term": "Direction for grant of bail to person apprehending arrest",
+    "bare_text": "When any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section and that Court may, if it thinks fit, direct that in the event of such arrest, he shall be released on bail. When the High Court or the Court of Session makes a direction under sub-section 1, it may include such conditions in such directions in the light of the facts of the particular case, as it may think fit, including (i) a condition that the person shall make himself available for interrogation by a police officer as and when required (ii) a condition that the person shall not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court or to any police officer.",
+    "plain_english_explanation": "If someone thinks they might be arrested for a serious crime, they can ask the High Court before arrest to give them permission to get bail. The High Court can agree and say that if they are arrested, they must be released on bail. The High Court can add conditions like being available for questioning and not bothering witnesses.",
+    "keywords": [
+      "anticipatory bail",
+      "pre-arrest relief",
+      "High Court direction",
+      "conditional bail",
+      "apprehending arrest"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "CrPC",
+    "identifier": "Section 439",
+    "title_or_term": "Special powers of High Court or Court of Session regarding bail",
+    "bare_text": "A High Court or Court of Session may direct, (a) that any person accused of an offence and in custody be released on bail, and if the offence is of the nature specified in sub-section 3 of section 437, may impose any condition which it considers necessary for the purposes mentioned in that sub-section (b) that any condition imposed by a Magistrate when releasing any person on bail be set aside or modified Provided that the High Court or the Court of Session shall, before granting bail to a person who is accused of an offence which is triable exclusively by the Court of Session or which, though not so triable, is punishable with imprisonment for life, give notice of the application for bail to the Public Prosecutor unless it is, for reasons to be recorded in writing, of opinion that it is not practicable to give such notice.",
+    "plain_english_explanation": "The High Court and the Court of Session have special power to give bail even for very serious crimes. They can release a person on bail with any conditions they think necessary. They can also change or remove conditions set by lower courts. For the most serious crimes, they must tell the government lawyer before giving bail.",
+    "keywords": [
+      "bail powers",
+      "High Court authority",
+      "Court of Session",
+      "serious offences",
+      "bail conditions",
+      "bail modification"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  }
+]

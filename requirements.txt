@@ -1,0 +1,65 @@
+# =============================================================================
+# NyaySetu - Consolidated Python Dependencies
+# =============================================================================
+
+# === Core API Frameworks ===
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0
+flask>=3.0.0
+flask-cors>=4.0.0
+werkzeug>=3.0.0
+gunicorn>=21.2.0
+python-dotenv>=1.0.0
+python-multipart>=0.0.5
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# === LangChain Ecosystem ===
+langchain>=1.2.0
+langchain-core>=1.2.0
+langchain-openai>=1.1.0
+langchain-community>=0.4.0
+langsmith>=0.5.0
+
+# === Vector Databases ===
+chromadb>=1.4.0
+onnxruntime>=1.15.0
+
+# === LLM Providers ===
+openai>=1.0.0
+groq>=0.12.0
+
+# === HTTP Clients ===
+httpx>=0.25.0
+httpx-sse>=0.4.0
+requests>=2.31.0
+
+# === Database ===
+pymongo>=4.6.0
+dnspython>=2.4.0
+SQLAlchemy>=2.0.0
+
+# === Document Generation ===
+reportlab>=4.2.0
+Pillow>=10.0.0
+qrcode>=7.4.0
+pypdf>=4.0.0
+cryptography>=41.0.0
+
+# === Data Processing ===
+numpy>=1.24.0
+PyYAML>=6.0
+jsonschema>=4.20.0
+
+# === Utilities ===
+tenacity>=8.0.0
+python-multipart>=0.0.5
+bcrypt>=5.0.0
+typer>=0.9.0
+overrides>=7.0.0
+python-dateutil>=2.8.0
+jsonpatch>=1.33
+jsonpointer>=3.0.0
+orjson>=3.9.0
+mmh3>=4.0.0
+PyPika>=0.48.0

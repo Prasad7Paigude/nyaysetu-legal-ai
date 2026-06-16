@@ -1,0 +1,449 @@
+[
+  {
+    "law_type": "IPC",
+    "identifier": "Section 34",
+    "title_or_term": "Acts done by several persons in furtherance of common intention",
+    "bare_text": "When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone.",
+    "plain_english_explanation": "When two or more people plan together and do a crime following that shared plan, each person is punished as if they had done the whole crime alone. If your friends agreed with you to commit a crime and all did their part, you are all equally guilty.",
+    "keywords": [
+      "common intention",
+      "several persons",
+      "joint liability",
+      "collective act",
+      "34"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 107",
+    "title_or_term": "Abetment of a thing",
+    "bare_text": "Whoever abets any offence shall, if the act abetted is committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with the punishment provided for the offence.",
+    "plain_english_explanation": "If you encourage, help, or plan a crime with someone else, and that crime happens because of your help, you are punished. Abetting means instigating, encouraging, or aiding someone to commit a crime. Even if you do not do the crime yourself, you can be punished for helping others do it.",
+    "keywords": [
+      "abetment",
+      "encourage",
+      "instigate",
+      "aid",
+      "assist",
+      "107"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 108",
+    "title_or_term": "Abettor",
+    "bare_text": "A person abets an offence, who abets either the commission of an offence, or the commission of an act which would be an offence, if committed by a person capable by law of committing an offence with the same intention or knowledge as that of the abettor.",
+    "plain_english_explanation": "An abettor is someone who encourages, helps, or plans a crime with another person. You become an abettor when you instigate, help, or conspire with someone to commit an offence. You do not have to do the crime yourself to be called an abettor.",
+    "keywords": [
+      "abettor",
+      "accomplice",
+      "encourager",
+      "conspirator",
+      "108"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 109",
+    "title_or_term": "Punishment for abetment if the act abetted is committed in consequence and where no express provision is made for its punishment",
+    "bare_text": "Whoever abets any offence shall, if the act abetted is committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with the punishment provided for the offence.",
+    "plain_english_explanation": "If you help someone commit a crime and that crime happens because of your help, you get the same punishment as the person who actually committed the crime. If there is no special law saying how to punish abetting, you are punished like the criminal who committed the main offence.",
+    "keywords": [
+      "abetment punishment",
+      "consequence",
+      "instigation",
+      "conspiracy",
+      "aid",
+      "109"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 141",
+    "title_or_term": "Unlawful assembly",
+    "bare_text": "An assembly of five or more persons is designated an unlawful assembly, if the common object of the persons composing that assembly is to overawe by criminal force or show of criminal force the Central Government or any State Government, or to resist the execution of any law, or to commit any offence against the State or against the public.",
+    "plain_english_explanation": "Five or more people gathered together with a common plan to use force or threat to resist the government, break laws, or force someone to do or not do something they are legally allowed to do is an unlawful assembly. If five people meet to intimidate a police officer or to resist arrest, that is unlawful.",
+    "keywords": [
+      "unlawful assembly",
+      "five persons",
+      "common object",
+      "criminal force",
+      "141"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 144",
+    "title_or_term": "Joining unlawful assembly armed with deadly weapon",
+    "bare_text": "Whoever, being armed with any deadly weapon, or with anything which, used as a weapon of offence, is likely to cause death, is a member of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine which may extend to one hundred rupees, or with both.",
+    "plain_english_explanation": "If you join a group of five or more people who are meeting unlawfully and you are carrying a dangerous weapon (like a gun, knife, or axe), you can be punished with up to 2 years in jail or fine or both. Being armed makes the offence more serious.",
+    "keywords": [
+      "armed assembly",
+      "deadly weapon",
+      "unlawful",
+      "two years",
+      "144"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 149",
+    "title_or_term": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+    "bare_text": "If an offence is committed by any member of an unlawful assembly in prosecution of the common object of that assembly, or such an offence as the members of that assembly knew to be likely to be committed in prosecution of that object, every person who, at the time of the committing of that offence, is a member of the same assembly, is guilty of that offence.",
+    "plain_english_explanation": "If any person in an unlawful assembly commits a crime that is part of the group's common plan, or a crime that members knew was likely to happen, then every member of that group is guilty of that crime too. You are punished even if you did not personally commit the crime.",
+    "keywords": [
+      "unlawful assembly",
+      "common object",
+      "every member",
+      "guilty",
+      "149"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 302",
+    "title_or_term": "Punishment for murder",
+    "bare_text": "Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine.",
+    "plain_english_explanation": "Murder is the most serious killing offence. The punishment is death (capital punishment) or life imprisonment, plus a fine. The court will decide whether to give death or life imprisonment based on the facts of the case.",
+    "keywords": [
+      "murder",
+      "death penalty",
+      "life imprisonment",
+      "killing",
+      "302"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 307",
+    "title_or_term": "Attempt to murder",
+    "bare_text": "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plain_english_explanation": "If you try to kill someone but fail, you can be punished with up to 10 years in jail or fine or both. If your attempt injures the person, you can get life imprisonment. If you have already been sentenced to life imprisonment and you try to murder someone again, you can be punished with death.",
+    "keywords": [
+      "attempt to murder",
+      "ten years",
+      "life imprisonment",
+      "death",
+      "307"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 323",
+    "title_or_term": "Punishment for voluntarily causing hurt",
+    "bare_text": "Whoever, except in the case provided for by section 334, voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both.",
+    "plain_english_explanation": "If you intentionally cause physical pain or injury to someone without legal reason, you can be punished with up to 1 year in jail or a fine up to ₹1,000 or both. Hurt means causing bodily pain, disease, or physical damage.",
+    "keywords": [
+      "hurt",
+      "injury",
+      "bodily pain",
+      "one year",
+      "fine",
+      "323"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 324",
+    "title_or_term": "Voluntarily causing hurt by dangerous weapons or means",
+    "bare_text": "Whoever, except in the case provided for by section 334, voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "plain_english_explanation": "If you use a dangerous weapon (gun, knife, sword), fire, poison, acid, explosives, or any harmful substance to hurt someone, you can be punished with up to 3 years in jail or fine or both. Using dangerous methods makes hurting more serious than simple hurt.",
+    "keywords": [
+      "dangerous weapon",
+      "hurt",
+      "gun",
+      "knife",
+      "three years",
+      "324"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 340",
+    "title_or_term": "Wrongful confinement",
+    "bare_text": "Wrongful confinement is the wrongful restraint of any person, whereby the person restrained is wholly deprived of his personal liberty.",
+    "plain_english_explanation": "Wrongful confinement means unlawfully keeping a person completely locked up, trapped, or prevented from leaving against their will. It is different from wrongful restraint because the person is fully prevented from moving or leaving.",
+    "keywords": [
+      "confinement",
+      "restrained",
+      "liberty",
+      "imprisonment",
+      "340"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 341",
+    "title_or_term": "Punishment for wrongful restraint",
+    "bare_text": "Whoever wrongfully restrains any person shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both.",
+    "plain_english_explanation": "If you unlawfully stop someone from moving freely without confining them completely, you can be punished with up to 1 month in jail or a fine up to ₹500 or both. Wrongful restraint is less serious than wrongful confinement.",
+    "keywords": [
+      "restraint",
+      "unlawful",
+      "movement",
+      "one month",
+      "fine",
+      "341"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 354",
+    "title_or_term": "Assault or criminal force to woman with intent to outrage her modesty",
+    "bare_text": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine which may extend to five hundred rupees, or with both.",
+    "plain_english_explanation": "If you use force on a woman or touch her in a way that insults or disrespects her dignity, you can be punished with up to 2 years in jail or a fine up to ₹500 or both. This includes unwanted touching, grabbing, or any action meant to shame or insult her.",
+    "keywords": [
+      "assault",
+      "woman",
+      "modesty",
+      "criminal force",
+      "two years",
+      "354"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 354A",
+    "title_or_term": "Sexual harassment",
+    "bare_text": "A man committing any act or behaviour of a sexual nature such as physical contact and advances, a demand or request for sexual favours, a remark of a sexual nature, or any other form of verbal, non-verbal or physical conduct of a sexual nature shall be guilty of the offence of sexual harassment.",
+    "plain_english_explanation": "Sexual harassment means unwanted sexual remarks, touching, or behaviour that makes someone feel uncomfortable or disrespected. It includes asking for sexual favours, unwanted comments about the body, or any sexual behaviour that is not welcome. A person who does this can be punished.",
+    "keywords": [
+      "sexual harassment",
+      "unwelcome",
+      "conduct",
+      "sexual nature",
+      "354A"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 354D",
+    "title_or_term": "Stalking",
+    "bare_text": "Whoever, with the intention of following or monitoring the movements, activities or calls, messages, emails or other forms of electronic communication of a particular person or knowing that such activities would cause harassment, fear or injury to such person follows that person or attempts to contact such person repeatedly despite a clear indication of disinterest shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to ten thousand rupees, or with both.",
+    "plain_english_explanation": "Stalking means following someone, contacting them repeatedly even when they said no, or watching their social media, messages, or movements to scare, hurt, or annoy them. Punishment is up to 3 years in jail or a fine up to ₹10,000 or both. This includes following someone or tracking them with technology.",
+    "keywords": [
+      "stalking",
+      "following",
+      "monitoring",
+      "harassment",
+      "fear",
+      "354D"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 375",
+    "title_or_term": "Rape",
+    "bare_text": "A man is said to commit rape who, except in the cases hereinafter excepted, has sexual intercourse with a woman under circumstances falling under any of the categories including: against her will, without her consent, with her consent when obtained by putting her in fear of death or hurt, or with a woman who is under eighteen years of age.",
+    "plain_english_explanation": "Rape is sexual intercourse with a woman against her will or without her agreement. It also includes forced intercourse, tricking her into it, using threats, or having intercourse with a girl under 18 years old. The law protects women from unwanted sexual acts.",
+    "keywords": [
+      "rape",
+      "sexual intercourse",
+      "consent",
+      "woman",
+      "unlawful",
+      "375"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 376",
+    "title_or_term": "Punishment for rape",
+    "bare_text": "Whoever commits rape shall be punished with imprisonment of either description for a term which shall not be less than seven years, but which may extend to imprisonment for life, and shall also be liable to fine.",
+    "plain_english_explanation": "Anyone convicted of rape must be punished with at least 7 years in jail, which can go up to life imprisonment, and also fined. A husband cannot use the fact that the victim is his wife as a defence if the wife has left him, or if she is below 18 years old. Even married women have the right to refuse sexual intercourse.",
+    "keywords": [
+      "rape",
+      "punishment",
+      "seven years",
+      "life imprisonment",
+      "fine",
+      "376"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 378",
+    "title_or_term": "Theft",
+    "bare_text": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.",
+    "plain_english_explanation": "Theft means secretly taking someone else's movable property without their permission and intending to keep it. The crime happens when you move the property to steal it. Movable property includes things like money, clothes, vehicles, or phones—not land or buildings.",
+    "keywords": [
+      "theft",
+      "steal",
+      "property",
+      "dishonestly",
+      "without consent",
+      "378"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 379",
+    "title_or_term": "Punishment for theft",
+    "bare_text": "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "plain_english_explanation": "If you steal someone's property, you can be punished with up to 3 years in jail or a fine or both. The punishment depends on the value of the stolen item and the circumstances of the theft.",
+    "keywords": [
+      "theft",
+      "punishment",
+      "three years",
+      "fine",
+      "imprisonment",
+      "379"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 406",
+    "title_or_term": "Punishment for criminal breach of trust",
+    "bare_text": "Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "plain_english_explanation": "Criminal breach of trust means someone dishonestly misuses property that was given to them to look after or manage. If you are trusted with someone's money or valuables and you steal or misuse them, you can be punished with up to 3 years in jail or fine or both.",
+    "keywords": [
+      "breach of trust",
+      "dishonest",
+      "misappropriate",
+      "three years",
+      "406"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 411",
+    "title_or_term": "Dishonestly receiving stolen property",
+    "bare_text": "Whoever receives or retains any stolen property, knowing or having reason to believe the same to be stolen property, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plain_english_explanation": "If you receive, buy, or keep stolen goods knowing or suspecting that they are stolen, you can be punished with up to 2 years in jail or fine or both. You do not have to be the thief to be guilty—buying or keeping stolen goods is also a crime.",
+    "keywords": [
+      "stolen property",
+      "receives",
+      "retains",
+      "two years",
+      "411"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 420",
+    "title_or_term": "Cheating and dishonestly inducing delivery of property",
+    "bare_text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "plain_english_explanation": "Cheating means tricking someone by making false promises or showing false evidence to get their money or property. If you cheat and get someone to give you property, money, or valuable documents, you can be punished with up to 7 years in jail and fine. This is a common fraud offence.",
+    "keywords": [
+      "cheating",
+      "fraud",
+      "deceive",
+      "dishonestly",
+      "seven years",
+      "420"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 498A",
+    "title_or_term": "Husband or relative of husband of a woman subjecting her to cruelty",
+    "bare_text": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.",
+    "plain_english_explanation": "If a husband or his relatives treat a woman cruelly (by beating, starving, threatening, or harassing her), they can be punished with up to 3 years in jail and fine. Cruelty includes mental and physical torture. This law protects married women from domestic violence.",
+    "keywords": [
+      "cruelty",
+      "husband",
+      "domestic violence",
+      "woman",
+      "three years",
+      "498A"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 504",
+    "title_or_term": "Intentional insult with intent to provoke breach of the peace",
+    "bare_text": "Whoever intentionally insults, and thereby knowingly causes or has reason to know that he is likely thereby to cause any person to break the public peace or to commit any offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine which may extend to one thousand rupees, or with both.",
+    "plain_english_explanation": "If you deliberately insult or disrespect someone in a way that is likely to make them violent or cause a riot, you can be punished with up to 2 years in jail or a fine up to ₹1,000 or both. Insults that provoke violence are not protected speech.",
+    "keywords": [
+      "insult",
+      "breach of peace",
+      "provoke",
+      "two years",
+      "504"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 506",
+    "title_or_term": "Punishment for criminal intimidation",
+    "bare_text": "Whoever commits criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine which may extend to one thousand rupees, or with both. If the intimidation be by threat of death or of grievous hurt, it shall be punishable with imprisonment of either description for a term which may extend to seven years, or with fine which may extend to one thousand rupees, or with both.",
+    "plain_english_explanation": "If you threaten someone to scare them or make them do something against their will, you can be punished with up to 2 years in jail or a fine up to ₹1,000. If you threaten someone with death or serious injury, the punishment is up to 7 years in jail and fine. Criminal threats are taken very seriously.",
+    "keywords": [
+      "intimidation",
+      "threat",
+      "criminal",
+      "two years",
+      "seven years",
+      "506"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  },
+  {
+    "law_type": "IPC",
+    "identifier": "Section 509",
+    "title_or_term": "Word, gesture or act intended to insult the modesty of a woman",
+    "bare_text": "Whoever, intending to insult the modesty of any woman, utters any word, makes any sound or gesture, or exhibits any object, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, or intrudes upon the privacy of such woman, shall be punished with simple imprisonment for a term which may extend to three years, or with fine, or with both.",
+    "plain_english_explanation": "If you say something, make a gesture, show an obscene picture, or invade a woman's privacy to insult or disrespect her modesty, you can be punished with up to 3 years in simple imprisonment or fine or both. This includes catcalling, indecent gestures, or exposing yourself.",
+    "keywords": [
+      "insult modesty",
+      "woman",
+      "gesture",
+      "three years",
+      "privacy",
+      "509"
+    ],
+    "source": "India Code",
+    "verification_status": "verified"
+  }
+]
