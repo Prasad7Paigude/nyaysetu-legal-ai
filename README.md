@@ -30,6 +30,12 @@
 
 **Impact:** Transforms the paralegal workflow from days to minutes, democratizes foundational legal knowledge for citizens, and introduces zero-trust cryptographic security to legal record-keeping.
 
+## Achievement
+
+- **Top 50 / 650+ Teams — VOIS Tech Innovation Marathon** (National Level Hackathon)
+
+Post-validation, the entire codebase was **production-hardened**: It features a Next.js frontend orchestrating four strictly decoupled Python microservices, strict anti-hallucination LLM guardrails, and a custom cryptographic blockchain for tamper-proof persistence. A validated concept, now an **operationally bulletproof legal infrastructure.**
+
 ---
 
 ## Architecture & Data Flow
